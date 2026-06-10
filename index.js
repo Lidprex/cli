@@ -67,14 +67,6 @@ const PROJECTS = [
     tech: 'Python',
     status: p('#6366f1', '○ Internal'),
   },
-  {
-  name: `${bold('#00cec9', 'LidPush')}       ${chalk.gray('Smart GitHub sync tool')}`,
-  value: 'lidpush',
-  zip: 'https://github.com/Lidprex/Lidpush/archive/refs/heads/main.zip',
-  folder: 'Lidpush-main',
-  tech: 'Tauri + Rust + React',
-  status: p('#22c55e', '● Live'),
-  },
 ];
 
 const DIVIDER = chalk.gray('  ' + '─'.repeat(52));
