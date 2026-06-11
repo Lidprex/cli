@@ -1,11 +1,14 @@
 {
   "name": "@lidprex/cli",
-  "version": "1.0.0",
-  "description": "Lidprex CLI — manage and clone Lidprex open source projects",
+  "version": "2.0.0",
+  "description": "Lidprex CLI — manage and download Lidprex open source projects",
   "type": "module",
   "main": "index.js",
   "bin": {
     "lidprex": "index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
   },
   "keywords": [
     "lidprex",
