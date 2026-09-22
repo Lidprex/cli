@@ -11,20 +11,6 @@
 
 ---
 
-## Version
-
-**Current release: `2.1.2`**
-
-| Version | Highlights |
-|---|---|
-| **2.1.2** (latest) | Root `license: GPL-3.0` for correct npmjs metadata |
-| **2.1.1** | `#!/usr/bin/env node` shebang — the CLI now runs as the `lidprex` command on all platforms (no more opening in an editor) |
-| **2.1.0** | **Multi-release support** — pick a release version per project (LidBridge v1/v2, RepoPrep v1/v2, LidPush v1/v2); "back" escape everywhere; smarter extraction |
-| **2.0.0** | Binary downloads (`.exe` / `.msi`), `docs` / `update` / `changelog` commands, MGS-GenX preview |
-| **1.0.0** | Initial release — `init`, `list`, `status` |
-
----
-
 ## Installation
 
 Requires **Node.js >= 18**.
