@@ -160,6 +160,19 @@ const PROJECTS = [
     repo: 'https://github.com/Lidprex/RepoPrep',
     versions: [
       {
+        label: 'v2.2.1 — Latest release',
+        value: 'v2.2.1',
+        summary: '71.6 MB signed installer, rewritten streaming engine, 225 languages',
+        variants: [
+          {
+            label: 'Windows Installer (.exe)  — Recommended',
+            type: 'binary',
+            url: 'https://github.com/Lidprex/RepoPrep/releases/download/V2.2.1/RepoPrep.Setup.2.2.1.exe',
+            filename: 'RepoPrep.Setup.2.2.1.exe',
+          },
+        ],
+      },
+      {
         label: 'v2.2.0 — Ultra-lightweight rebuild',
         value: 'v2.2.0',
         summary: '11.1 MB executable, direct run, AI flatten mode',
