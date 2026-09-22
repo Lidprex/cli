@@ -1,7 +1,6 @@
 {
   "name": "@lidprex/cli",
-  "version": "2.1.2",
-  "description": "Lidprex CLI — manage and download Lidprex open source projects",
+  "version": "2.1.4",  "description": "Lidprex CLI — manage and download Lidprex open source projects",
   "type": "module",
   "main": "index.js",
   "bin": {
